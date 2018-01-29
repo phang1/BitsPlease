@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsPlease", "BitsPlease\BitsPlease.csproj", "{066D5CF4-9A04-459C-A448-79787512611E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066D5CF4-9A04-459C-A448-79787512611E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066D5CF4-9A04-459C-A448-79787512611E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066D5CF4-9A04-459C-A448-79787512611E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066D5CF4-9A04-459C-A448-79787512611E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA1C81A-B0EF-41F1-A315-F3A26A29E302}
+	EndGlobalSection
+EndGlobal
