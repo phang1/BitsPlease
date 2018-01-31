@@ -64,4 +64,5 @@ Generated\ Files/
 
 # Storage, not sure why ql lite is on here
 .vs/
+Debug/
 
