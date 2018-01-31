@@ -21,39 +21,39 @@ namespace Infrastructure
 
         public int GP { get; set; }
 
-        public int MIN { get; set; }
+        public float MIN { get; set; }
 
-        public int FGM { get; set; }
+        public float FGM { get; set; }
 
-        public int FGA { get; set; }
+        public float FGA { get; set; }
 
         public float FG_PCT { get; set; }
 
-        public int FG3M { get; set; }
+        public float FG3M { get; set; }
 
-        public int FG3A { get; set; }
+        public float FG3A { get; set; }
         
         public float FG3_PCT { get; set; }
 
-        public int OREB { get; set; }
+        public float OREB { get; set; }
 
-        public int DREB { get; set; }
+        public float DREB { get; set; }
 
-        public int REB { get; set; }
+        public float REB { get; set; }
 
-        public int AST { get; set; }
+        public float AST { get; set; }
 
-        public int STL { get; set; }
+        public float STL { get; set; }
 
-        public int BLK { get; set; }
+        public float BLK { get; set; }
 
-        public int TOV { get; set; }
+        public float TOV { get; set; }
 
-        public int PF { get; set; }
+        public float PF { get; set; }
 
-        public int PTS { get; set; }
+        public float PTS { get; set; }
 
-        public int EFF { get; set; }
+        public float EFF { get; set; }
 
         public float AST_TOV { get; set; }
 

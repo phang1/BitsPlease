@@ -37,7 +37,27 @@ namespace Services
             {
                 playas.Add(new PlayerDTO
                 {
-
+                    PLAYER_ID = stat[0],
+                    RANK = stat[1],
+                    PLAYER =stat[2],
+                    TEAM = stat[3],
+                    GP = stat[4],
+                    MIN = (float)stat[5],
+                    FGM = (float)stat[6],
+                    FGA = (float)stat[7],
+                    FG_PCT = (float)stat[8],
+                    FG3M = (float)stat[9],
+                    FG3A = (float)stat[10],
+                    FG3_PCT = (float)stat[11],
+                    OREB = (float)stat[15],
+                    DREB = (float)stat[16],
+                    REB = (float)stat[17],
+                    AST = (float)stat[18],
+                    STL = (float)stat[19],
+                    BLK = (float)stat[20],
+                    TOV = (float)stat[21],
+                    PTS = (float)stat[22],
+                    EFF = (float)stat[23]
                 });
             }
 
