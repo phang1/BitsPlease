@@ -53,4 +53,15 @@ Generated\ Files/
 *.svclog
 *.scc
 
-*.cache
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+
+# Storage, not sure why ql lite is on here
+*[Ss]erver/sqlite3/*
+
